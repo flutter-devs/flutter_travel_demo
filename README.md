@@ -1,16 +1,22 @@
-# cooking_app
+# Flutter Travel Demo
 
-A new Flutter application.
+A Flutter app to showcase Flutter Travel Demo.
+
+# Demo
+<img height="480px" src="https://github.com/flutter-devs/flutter_travel_demo/blob/docs_module/screens/demo.gif">
+
+
+
+# Android Screen
+<img height="480px" src="https://github.com/flutter-devs/flutter_travel_demo/blob/docs_module/screens/android1.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_travel_demo/blob/docs_module/screens/android2.png">  
+
+
+# iOS Screen
+<img height="480px" src="https://github.com/flutter-devs/flutter_travel_demo/blob/docs_module/screens/iphone1.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_travel_demo/blob/docs_module/screens/iphone2.png">
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
